@@ -1,0 +1,12 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        double merchandise, salestax, total;
+        merchandise=32.95;
+        salestax=merchandise*0.07;
+        total=merchandise+salestax;
+        System.out.println("total is: $" + total);
+        
+        
+     }
+}
